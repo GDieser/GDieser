@@ -1,7 +1,7 @@
 # 🧐 About Me:
 ## Hi, I'm GDieser! 
 
-🎓 Programming student at UTN and indie developer, passionate about IT and 3D design.<br>💻 I specialize in back-end development with knowledge in:<br><br>🔹 Languages: C++, C# (.NET), Python<br>🌐 Web Development: HTML, CSS, JS<br>🛠️ Tools & Technologies: .NET, SQL, Git<br><br>🖌️ Blender Design<br>🎮 Unity Enthusiast<br>📚 Currently, I keep learning on different platforms like Platzi and TalentoTech.<br>🚀 Always looking to improve and create exciting projects.
+🎓 I am a University Technician in Programming, having graduated from UTN and indie developer, passionate about IT and 3D design.<br>💻 I specialize in back-end development with knowledge in:<br><br>🔹 Languages: C++, C# (.NET), JAVA, Python<br>🌐 Web Development: HTML, CSS, JS<br>🛠️ Tools & Technologies: .NET, SQL, Git<br><br>🖌️ Blender Design<br>🎮 Unity Enthusiast<br>📚 Currently, I keep learning on different platforms like Platzi and TalentoTech.<br>🚀 Always looking to improve and create exciting projects.
 
 
 ## 🌐 Socials:
